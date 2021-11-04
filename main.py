@@ -7,7 +7,6 @@ import ballscrew
 import controller
 import motionprofile
 
-
 # Time parameter initialization
 start_time = 0.0
 end_time = 3.0
